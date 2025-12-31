@@ -2,7 +2,7 @@ import React from 'react';
 import ProjectItem from './ProjectItem';
 // Import your local images here instead of placeholders
 // import plugImg from '../assets/plug.png';
-import expenseTracker from '../assets/expenseTracker.png';
+import expenseTracker from '../assets/expensetracker.png';
 import generativeAI from '../assets/generativeAI.png';
 const Work = () => {
     const projects = [
