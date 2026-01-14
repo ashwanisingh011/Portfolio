@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import gsap from 'gsap'; // Make sure to npm install gsap
 import Navbar from './Navbar';
-import LogoLoop from './LogoLoop';
+// import LogoLoop from './LogoLoop';
 
 const Hero = () => {
     useEffect(() => {

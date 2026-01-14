@@ -1,6 +1,6 @@
 import React from "react";
 // import aboutImg from '../assets/new.png';
-import aboutImg from "../assets/myIMG.jpg";
+import aboutImg from "../assets/ashwani.jpeg";
 const About = () => {
   const handleConnect = () => {
     window.open(
