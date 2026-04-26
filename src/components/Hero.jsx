@@ -59,7 +59,7 @@ const Hero = () => {
                 <a href="https://www.advrd.com/">
                     Previously worked at Advrd <i className="ri-arrow-right-up-line"></i>
                 </a>
-                <a href="https://drive.google.com/file/d/1v7iAgMEm1ugt3SKIjJR080Xep7vT1xBv/view?usp=drive_link">
+                <a href="https://drive.google.com/file/d/1kVJ5n6LPMy_FckFJI1U72nYboYTXXWct/view?usp=sharing">
                     Resume <i className="ri-arrow-right-up-line"></i>
                 </a>
                 <div id="iconset">
