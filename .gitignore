@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Custom ignores
+2404030100150_PortfolioWebsite_AWSCloud/
+Assignment_Report.html
+Assignment_Report.pdf
+.claude/
