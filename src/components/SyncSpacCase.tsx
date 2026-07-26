@@ -11,7 +11,7 @@ import { featuredProject } from '@/data/projects'
  */
 const FLOW = [
   { id: 'client', label: 'React 19 Client', sub: 'Optimistic UI', icon: 'ri-computer-line' },
-  { id: 'api', label: 'Express API', sub: 'RBAC · ABAC · quota', icon: 'ri-server-line' },
+  { id: 'api', label: 'Express API', sub: 'RBAC · quota', icon: 'ri-server-line' },
   { id: 'db', label: 'MongoDB', sub: '28 schemas', icon: 'ri-database-2-line' },
   { id: 'queue', label: 'BullMQ + Redis', sub: 'Workers · cron', icon: 'ri-stack-line' },
   { id: 'socket', label: 'Socket.IO', sub: 'Workspace rooms', icon: 'ri-broadcast-line' },
