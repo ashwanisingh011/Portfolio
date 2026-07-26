@@ -15,7 +15,7 @@ export const skillGroups: SkillGroup[] = [
   },
   {
     label: 'Infra & Tools',
-    items: ['Docker', 'AWS S3', 'Firebase', 'Cloudinary', 'Git', 'Vercel', 'Netlify'],
+    items: ['Docker', 'AWS', 'Firebase', 'Cloudinary', 'Git', 'Vercel', 'Netlify'],
   },
 ]
 
@@ -25,13 +25,13 @@ export const marqueeSkills: string[] = skillGroups.flatMap((g) => g.items)
 export const stats: Stat[] = [
   { value: 15, suffix: '', label: 'Open-source PRs merged into Meshery' },
   { value: 28, suffix: '', label: 'Schemas modelled in SyncSpac' },
-  { value: 6, suffix: 'mo', label: 'Internship experience shipped' },
+  { value: 7, suffix: 'mo', label: 'Internship experience shipped' },
   { value: 3, suffix: '+', label: 'Full-stack products built' },
 ]
 
 export const currentlyLearning: string[] = [
-  'Golang',
-  'System design at scale',
-  'Kubernetes',
-  'Postgres internals',
+  'System design',
+  'DSA',
+  'Open Source',
+  'Backend',
 ]
