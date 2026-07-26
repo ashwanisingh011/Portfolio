@@ -84,8 +84,8 @@ export function Hero({ ready }: HeroProps) {
       </div>
 
       <div className="hero-footer">
-        <a href="https://www.advrd.com/" target="_blank" rel="noreferrer">
-          Previously at Advrd <i className="ri-arrow-right-up-line" />
+        <a href="https://staytuned.website/" target="_blank" rel="noreferrer">
+          Previously at Staytuned <i className="ri-arrow-right-up-line" />
         </a>
 
         <Magnetic>
