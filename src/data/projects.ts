@@ -34,7 +34,7 @@ export const projects: Project[] = [
       { value: '28', label: 'Mongoose schemas' },
       { value: '6', label: 'RBAC role tiers' },
       { value: '3', label: 'Subscription tiers' },
-      { value: '2FA', label: 'TOTP secured' },
+      { value: '2FA', label: 'OTP secured' },
     ],
     highlights: [
       {
@@ -43,7 +43,7 @@ export const projects: Project[] = [
         icon: 'ri-building-line',
       },
       {
-        title: 'RBAC + ABAC authorization',
+        title: 'RBAC authorization',
         body: 'Six role tiers from Super Admin down to Guest. Dynamic middleware evaluates permission at both the resource level and the property level, scoped by ownership.',
         icon: 'ri-shield-keyhole-line',
       },
